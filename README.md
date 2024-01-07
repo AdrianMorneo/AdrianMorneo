@@ -1,7 +1,7 @@
 
 # ¡Hola, soy Adrián! 👋
 
-![Banner](C:\Users\34603\Pictures\MOREFLAK.png)
+![Banner](https://www.shutterstock.com/es/image-photo/digital-technology-software-development-concept-coding-2261903725)
 
 ### Presentación💬
 Me llamo Adrián, actualmente estoy cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM). Soy apasionado por la programación y tengo experiencia en el desarrollo de aplicaciones utilizando Java y Python mayoriatariamente.
