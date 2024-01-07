@@ -1,7 +1,7 @@
 
 # ¡Hola, soy Adrián! 👋
 
-[!Banner]( C:\Users\34603\Pictures\MOREFLAK.png )
+[!Banner]( C:/Users/34603/Pictures/MOREFLAK.png )
 
 ### Presentación
 Me llamo Adrián, tengo 21 años y actualmente estoy cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM). Soy apasionado por la programación y tengo experiencia en el desarrollo de aplicaciones utilizando Java y Python mayoriatariamente.
