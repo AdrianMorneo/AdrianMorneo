@@ -3,7 +3,7 @@
 
 [!Banner]( C:\Users\34603\Pictures\MOREFLAK.png )
 
-###Presentación
+### Presentación
 Me llamo Adrián, tengo 21 años y actualmente estoy cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM). Soy apasionado por la programación y tengo experiencia en el desarrollo de aplicaciones utilizando Java y Python mayoriatariamente.
 
 Durante mi trayectoria, he trabajado con bases de datos, destacando en el manejo de MySQL y SQLite. Me encanta explorar nuevas formas de estructurar y gestionar la información para mejorar la eficiencia y el rendimiento de mis proyectos.
