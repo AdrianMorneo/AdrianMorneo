@@ -4,7 +4,7 @@
 ![Banner](https://res.cloudinary.com/practicaldev/image/fetch/s--qfqNtg05--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png)
 
 ### Presentación💬
-Me llamo Adrián, actualmente estoy cursando el segundo año de **Desarrollo de Aplicaciones Multiplataforma** (DAM). Soy apasionado por la programación y tengo experiencia en el desarrollo de aplicaciones utilizando Java y Python mayoriatariamente.
+Me llamo Adrián, actualmente estoy cursando el segundo año de **Desarrollo de Aplicaciones Multiplataforma** (DAM). Soy apasionado por la programación y tengo experiencia en el desarrollo de aplicaciones utilizando Java y Python mayoritariamente.
 
 Durante mi trayectoria, he trabajado con bases de datos, destacando en el manejo de MySQL y SQLite. Me encanta explorar nuevas formas de estructurar y gestionar la información para mejorar la eficiencia y el rendimiento de mis proyectos.
 
