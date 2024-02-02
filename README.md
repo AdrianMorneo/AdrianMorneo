@@ -1,7 +1,7 @@
 
 # ¡Hola, soy Adrián! 👋
 
-![Banner](https://res.cloudinary.com/practicaldev/image/fetch/s--8m6DOwsd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://lh3.googleusercontent.com/x4svx9o7SLFbIq14sUztxqwIKKU3wD1Wa0HsJtWv0LAErwWJ2V7kXmwC-kTHEVbiCQ1xPPd62MeKc9moWnCHF1K2gBX-HcyxeeamqgQ7vyxC3_w8Rpq27WMRBPjlifAk4x4ENSBG51P31pS0hQ)
+![Banner]([https://res.cloudinary.com/practicaldev/image/fetch/s--8m6DOwsd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://lh3.googleusercontent.com/x4svx9o7SLFbIq14sUztxqwIKKU3wD1Wa0HsJtWv0LAErwWJ2V7kXmwC-kTHEVbiCQ1xPPd62MeKc9moWnCHF1K2gBX-HcyxeeamqgQ7vyxC3_w8Rpq27WMRBPjlifAk4x4ENSBG51P31pS0hQ](https://miro.medium.com/v2/resize:fit:1400/1*0RfDS--iW_SyUvqbM6jHfQ.png))
 
 ### Presentación💬
 Me llamo Adrián, actualmente estoy cursando el segundo año de **Desarrollo de Aplicaciones Multiplataforma** (DAM). Soy apasionado por la programación y tengo experiencia en el desarrollo de aplicaciones utilizando Java y Python mayoritariamente.
